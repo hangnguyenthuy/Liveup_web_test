@@ -1,0 +1,55 @@
+live.sg:
+  domain: "lazada.sg"
+  home_url: "http://lazada.sg"
+  my_account_url: "https://member.lazada.sg/user/profile"
+  liveup_membership_url: "https://liveup.lazada.sg/liveup/my"
+  login:
+    url: "https://member.lazada.sg/user/login"
+  test_account:
+    non.member:
+      test_email: lazada.non.member@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    trial.voided:
+      test_email: lazada.trial.voided@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    trial.activated:
+      test_email: lazada.trial.activated@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    trial.cancelled:
+      test_email: lazada.trial.cancelled@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    trial.expired:
+      test_email: lazada.trial.expired@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    discount.activated:
+      test_email: lazada.discount.activated@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    discount.cancelled:
+      test_email: lazada.discount.cancelled@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    discount.expired:
+      test_email: lazada.discount.expired@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    discount.payment.due:
+      test_email: lazada.discount.payment.due@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    discount.terminated:
+      test_email: lazada.discount.terminated@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    normal.activated:
+      test_email: lazada.normal.activated@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    normal.cancelled:
+      test_email: lazada.normal.cancelled@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    normal.expired:
+      test_email: lazada.normal.expired@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    normal.payment.due:
+      test_email: lazada.normal.payment.due@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+    normal.terminated:
+      test_email: lazada.normal.terminated@liveup.sg
+      test_password: dGVuMjAzMDQwNTA
+
+
